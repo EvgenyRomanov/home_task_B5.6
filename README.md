@@ -1,4 +1,4 @@
-# Проект 3. Игра крестики-нолики на python
+# Проект 1. Игра крестики-нолики на python
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/EvgenyRomanov/home_task_B5.6/blob/main/README.md#описание-проекта)  
